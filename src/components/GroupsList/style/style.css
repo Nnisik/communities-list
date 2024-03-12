@@ -1,0 +1,8 @@
+.communities-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    border-left: none;
+    border-right: none;
+}
